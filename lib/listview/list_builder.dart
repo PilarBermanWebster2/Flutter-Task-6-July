@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-class MainApp extends StatelessWidget {
-
+class ListBuilder extends StatelessWidget {
   final androidVersions = [
     "Android Cupcake",
     "Android Donut",
@@ -21,25 +20,19 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Android Versions'),
-        ),
-        body: ListView.builder(
-          itemCount: androidVersions.length,
-          itemBuilder: (context, i) {
-            return Padding(
-              padding: EdgeInsets.all(10),
-              child: Text(i.toString() + ' - ' + androidVersions[i]),
-            );
-          },
-        ),
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Android Versions'),
+      ),
+      body: ListView.builder(
+        itemCount: androidVersions.length,
+        itemBuilder: (context, i) {
+          return Padding(
+            padding: EdgeInsets.all(10),
+            child: Text(i.toString() + ' - ' + androidVersions[i]),
+          );
+        },
       ),
     );
   }
-}
-
-void main() {
-  runApp(MainApp());
 }

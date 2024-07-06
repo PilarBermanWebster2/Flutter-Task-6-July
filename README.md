@@ -42,5 +42,7 @@ Tambahkan catatan tambahan, jika ada, seperti detail spesifik atau persyaratan p
 
 ## Terimakasih Kepada Author
 
-![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png) @flames.dart
+Instagram : @flames.dart
+Facebook  : Ghifari Muhammad
+TikTok    : @dontbelieveme_
 

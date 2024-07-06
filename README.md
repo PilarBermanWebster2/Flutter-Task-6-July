@@ -15,7 +15,7 @@ Aplikasi ini menggunakan Flutter untuk membuat antarmuka pengguna yang menarik d
 ## Instalasi
 
 1. Pastikan Anda telah menginstal Flutter dan memiliki emulator atau perangkat fisik untuk menjalankan aplikasi.
-2. Clone repositori ini:
+2. Clone repositori ini
 3. Buka proyek dalam editor Flutter Anda.
 4. Jalankan aplikasi dengan perintah:
   `Flutter Run`.
@@ -40,4 +40,7 @@ Muhammad Pilar Abudzar Al Ghifari - [Email Anda] - [Laman GitHub Anda]
 
 Tambahkan catatan tambahan, jika ada, seperti detail spesifik atau persyaratan perangkat lunak.
 
+## Terimakasih Kepada Author
+
+![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png) @flames.dart
 

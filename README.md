@@ -1,16 +1,42 @@
-# myapp
+# Flutter Project - Informasi Satelit
 
-A new Flutter project.
+Ini adalah proyek Flutter sederhana yang menampilkan informasi tentang satelit-satelit terkenal dan pengguna dapat menavigasi ke layar informasi masing-masing satelit.
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
+Aplikasi ini menggunakan Flutter untuk membuat antarmuka pengguna yang menarik dengan latar belakang blur dan tombol navigasi yang memicu perpindahan layar.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tampilan latar belakang dengan efek blur menggunakan `BackdropFilter`.
+- Tombol navigasi dengan tampilan menarik menggunakan `TextButton.styleFrom`.
+- Integrasi `Flutter Navigator` untuk navigasi antar layar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalasi
+
+1. Pastikan Anda telah menginstal Flutter dan memiliki emulator atau perangkat fisik untuk menjalankan aplikasi.
+2. Clone repositori ini:
+3. Buka proyek dalam editor Flutter Anda.
+4. Jalankan aplikasi dengan perintah:
+
+## Screenshots
+
+Tambahkan tangkapan layar aplikasi di sini jika diinginkan.
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek ini, silakan buat `fork` dari repositori ini dan kirim `pull request` dengan perubahan Anda.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [Nama Lisensi Anda]. Lihat `LICENSE` untuk informasi lebih lanjut.
+
+## Kontak
+
+Muhammad Pilar Abudzar Al Ghifari - [Email Anda] - [Laman GitHub Anda]
+
+## Catatan Tambahan
+
+Tambahkan catatan tambahan, jika ada, seperti detail spesifik atau persyaratan perangkat lunak.
+
+

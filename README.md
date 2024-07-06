@@ -1,4 +1,4 @@
-# Flutter Project - Informasi Satelit
+# Flutter Project - Informasi Tata Surya
 
 Ini adalah proyek Flutter sederhana yang menampilkan informasi tentang satelit-satelit terkenal dan pengguna dapat menavigasi ke layar informasi masing-masing satelit.
 

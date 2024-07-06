@@ -3,6 +3,7 @@ import 'listview/list_example.dart';
 import 'screens/about-screen.dart';
 import 'screens/home-screen.dart';
 import 'screens/destination.dart';
+import 'screens/satelit-screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,7 +19,8 @@ class MyApp extends StatelessWidget {
       routes: {
         "home": (context) => const HomeScreen(),
         '/about': (context) => const AboutScreen(),
-        '/wisata': (context) => ListWisataScreen()
+        '/wisata': (context) => ListWisataScreen(),
+        '/informasiSatelit': (context) => ListSatelitScreen()
       },
       initialRoute: "home",
       home: Scaffold(

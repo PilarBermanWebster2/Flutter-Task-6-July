@@ -36,7 +36,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
     return Scaffold(
       appBar: AppBar(
         title: Text('About'),
-        backgroundColor: Colors.blue,
+        backgroundColor: const Color.fromARGB(255, 112, 150, 182),
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {
@@ -76,7 +76,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                       child: Column(
                         children: [
                           Text(
-                            'Explore the World with Us',
+                            'PCode Dev',
                             style: TextStyle(
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
@@ -84,7 +84,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                           ),
                           SizedBox(height: 10.0),
                           Text(
-                            'We are dedicated to providing the best travel experiences to our customers. Our mission is to help you discover the beauty and wonders of the world, one destination at a time.',
+                            'PCode Dev merupakan perusahaan IT asal Singapore yang mengembangkan berbagai website maupun aplikasi mobile',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 16.8,
@@ -105,7 +105,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                       child: Column(
                         children: [
                           Text(
-                            'Our Vision',
+                            'Profil Developer',
                             style: TextStyle(
                               fontSize: 20.0,
                               fontWeight: FontWeight.bold,
@@ -113,7 +113,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                           ),
                           SizedBox(height: 10.0),
                           Text(
-                            'To be the leading travel company that offers unique and unforgettable travel experiences across the globe.',
+                            'Muhammad Pilar Abudzar Al Ghifari merupakan salah satu developer dari PCode Dev, sekarang sedang menuntut ilmu di Sekolah Menengah Kejururan (SMK) Assalaam Bandung.',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 16.8,
@@ -134,7 +134,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                       child: Column(
                         children: [
                           Text(
-                            'Our Services',
+                            'Layanan',
                             style: TextStyle(
                               fontSize: 20.0,
                               fontWeight: FontWeight.bold,
@@ -142,7 +142,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                           ),
                           SizedBox(height: 10.0),
                           Text(
-                            'We offer a wide range of travel services including guided tours, customized travel itineraries, travel insurance, and more. Whether you are looking for adventure, relaxation, or cultural experiences, we have something for everyone.',
+                            'Anda bisa menghubungi via instagram @flames.dart',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 16.8,
@@ -163,7 +163,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                       child: Column(
                         children: [
                           Text(
-                            'Contact Us',
+                            'Contact',
                             style: TextStyle(
                               fontSize: 20.0,
                               fontWeight: FontWeight.bold,
@@ -171,7 +171,7 @@ class _AboutScreenState extends State<AboutScreen> with TickerProviderStateMixin
                           ),
                           SizedBox(height: 10.0),
                           Text(
-                            'Email: contact@travelcompany.com\nPhone: +123 456 7890\nAddress: 123 Travel St, Wanderlust City, World',
+                            'Email: pilarmuhammad215@gmail.com\nPhone: +123 456 7890\nAddress: Kyoto City, Japan',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 16.0,

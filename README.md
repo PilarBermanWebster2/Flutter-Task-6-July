@@ -18,6 +18,7 @@ Aplikasi ini menggunakan Flutter untuk membuat antarmuka pengguna yang menarik d
 2. Clone repositori ini:
 3. Buka proyek dalam editor Flutter Anda.
 4. Jalankan aplikasi dengan perintah:
+  `Flutter Run`.
 
 ## Screenshots
 
